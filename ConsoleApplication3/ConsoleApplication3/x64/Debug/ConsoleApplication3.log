@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\wardik\Desktop\program\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(79,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\wardik\Desktop\program\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(141,36): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication3.vcxproj -> C:\Users\wardik\Desktop\program\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
